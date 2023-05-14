@@ -14,7 +14,7 @@ redirect_from:
 Education
 ======
 * University of California Los Angeles, Ph.D in Atmospheric and Oceanic Sciences, 2024 (expected)
-* M.S. in Atmospheric and Oceanic Sciences, 2021
+* University of California Los Angeles, M.S. in Atmospheric and Oceanic Sciences, 2021
 * Lanzhou University, B.S. in Atmospheric Sciences, 2019
 
   
