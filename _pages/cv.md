@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Full CV](xyding97.github.io/files/CV.pdf)
+[Full CV](/files/CV.pdf)
 
 Education
 ======
