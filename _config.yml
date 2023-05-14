@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiuyuan Ding (丁修远)"
+title                    : "Xiuyuan Ding"
 title_separator          : "-"
 name                     : &name "Xiuyuan Ding"
 description              : &description "PhD candidate at UCLA"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xiuyuan Ding"
+  name             : "Xiuyuan Ding (丁修远)"
   avatar           : "Xiuyuan Ding-03p.jpg"
   bio              : "PhD Candidate in the Department of Atmospheric and Oceanic Sciences at University of California, Los Angeles (UCLA)"
   location         : "Los Angeles, California"
