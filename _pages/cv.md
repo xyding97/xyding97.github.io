@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Full CV](CV.pdf)
+
 Education
 ======
 * University of California Los Angeles, Ph.D in Atmospheric and Oceanic Sciences, 2024 (expected)
@@ -16,18 +18,4 @@ Education
 * Lanzhou University, B.S. in Atmospheric Sciences, 2019
 
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
