@@ -14,7 +14,12 @@ I am a fourth year Ph.D. Candidate work with [Prof. Gang Chen](http://gchenpu.co
 
 Publications
 ======
-
+<ul>
+    {% assign sorted = (site.publications | sort: 'date') | reverse %}
+    {% for post in sorted limit:5 %}
+        {% include archive-single-publication.html %}
+    {% endfor %}
+</ul>
 
 
 
