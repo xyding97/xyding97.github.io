@@ -10,7 +10,7 @@ redirect_from:
 
 About
 ======
-I am a fourth year Ph.D. Candidate work with [Prof. Gang Chen](http://gchenpu.com) in the [Department of Atmospheric and Oceanic Sciences](https://aos.ucla.edu) at University of California, Los Angeles (UCLA). I am interested in the dynamics of atmospheric circulation, with a current focus on stratosphere-troposphere coupling. We identified a stratospheric wave precursor for surface cold extremes over North American in observations and comprehensive climate models.
+I am a fourth year Ph.D. Candidate working with [Prof. Gang Chen](http://gchenpu.com) in the [Department of Atmospheric and Oceanic Sciences](https://aos.ucla.edu) at University of California, Los Angeles (UCLA). I am interested in the dynamics of atmospheric circulation, with a current focus on stratosphere-troposphere coupling. We identified a stratospheric wave precursor for surface cold extremes over North American in observations and comprehensive climate models.
 
 Publications
 ======
