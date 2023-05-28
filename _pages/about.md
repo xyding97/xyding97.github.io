@@ -14,7 +14,7 @@ I am a fourth year Ph.D. Candidate working with [Prof. Gang Chen](http://gchenpu
 
 Publications
 ======
-* Xiuyuan Ding, Gang Chen, Pengfei Zhang, Daniela I.V. Domeisen and Clara Orbe, 2023: Extreme Stratospheric Wave Activity as Harbingers of Cold Events over North America. _Communications Earth & Envrionment (Accepted)_
+* Xiuyuan Ding, Gang Chen, Pengfei Zhang, Daniela I.V. Domeisen and Clara Orbe, 2023: Extreme stratospheric wave activity as harbingers of cold events over North America. _Communications Earth & Envrionment_, 4, [https://doi.org/10.1038/s43247-023-00845-y](https://doi.org/10.1038/s43247-023-00845-y).
 * Xiuyuan Ding, Gang Chen, Lantao Sun and Pengfei Zhang, 2022: Distinct North American Cooling Signatures Following the Zonally Symmetric and Asymmetric Modes of Winter Stratospheric Variability, _Geophysical Research Letters_, 49, [https:doi.org/10.1029/2021GL096076](https://doi.org/10.1029/2021GL096076).
 
 
