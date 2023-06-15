@@ -17,5 +17,7 @@ Education
 * University of California Los Angeles, M.S. in Atmospheric and Oceanic Sciences, 2021
 * Lanzhou University, B.S. in Atmospheric Sciences, 2019
 
-  
-
+Awards
+====== 
+* Dissertation Year Fellowship, UCLA
+* Paul M. Furukawa Memorial Fellowship, Dept. of AOS, UCLA
