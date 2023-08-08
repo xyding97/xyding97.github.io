@@ -12,5 +12,5 @@ author_profile: true
 
 * Yongli He, <ins>Xiuyuan Ding</ins>, Jianping Huang, Dongdong Li, Xiaodan Guan, 2019: The extreme cold winter under global warming. _AGU Fall Meeting_.
 
-## Improving the identification of Displaced and Split Stratospheric Polar Vortex Events (Undergraduate)
+## Improving the Identification of Displaced and Split Stratospheric Polar Vortex Events (Undergraduate)
 
