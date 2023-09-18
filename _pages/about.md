@@ -10,7 +10,8 @@ redirect_from:
 
 About
 ======
-I am a fifth year Ph.D. Candidate working with [Prof. Gang Chen](http://gchenpu.com) in the [Department of Atmospheric and Oceanic Sciences](https://aos.ucla.edu) at University of California, Los Angeles (UCLA). I am broadly interested in the dynamics of atmospheric circulation, with a current focus on stratosphere-troposphere coupling. We identified a stratospheric wave precursor for surface cold extremes over North America in observations and comprehensive climate models.
+I am a fifth-year Ph.D. Candidate working with [Prof. Gang Chen](http://gchenpu.com) in the [Department of Atmospheric and Oceanic Sciences](https://aos.ucla.edu) at the University of California, Los Angeles (UCLA). I am broadly interested in atmospheric circulation dynamics, with research experiences covering Sudden Stratospheric Warming (SSW), atmospheric blocking, surface air temperature variability, etc. These pursuits share a common theme: how do atmospheric dynamics contribute to weather and climate extremes? My current focus is on the role of the stratosphere in surface cold extremes.
+Leveraging observations and a hierarchy of climate models, we identified a stratospheric wave precursor for cold extremes over North America. This wave precursor is distinct from SSWs in terms of its timescale, vertical structure, and surface signature. Notably, it holds greater relevance for North American cold extremes on subseasonal timescales. These findings have important implications for improving predictions of severe cold spells, which would ultimately benefit critical sectors including agriculture, transportation, energy planning, and public health.
 
 Publications
 ======
