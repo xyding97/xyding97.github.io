@@ -9,13 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-[Full CV](/files/CV.pdf) (Apr 2024)
+[Full CV](/files/CV.pdf) (Aug 2024)
 
 Education
 ======
-* University of California Los Angeles, Ph.D. in Atmospheric and Oceanic Sciences, 2024 (expected)
+* University of California Los Angeles, Ph.D. in Atmospheric and Oceanic Sciences, 2024
 * University of California Los Angeles, M.S. in Atmospheric and Oceanic Sciences, 2021
 * Lanzhou University, B.S. in Atmospheric Sciences, 2019
+
+Academic employment
+======
+* Postdoc, Princeton University/NOAA-GFDL, 2024–
+* Summer intern, Lawrence Livermore National Laboratory, 2024
 
 Awards
 ====== 
