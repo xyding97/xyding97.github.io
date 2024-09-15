@@ -10,7 +10,7 @@ redirect_from:
 
 About
 ======
-I am a Postodtoral Research Associate at Princeton University/NOAA Geophysical Fluid Dynamics Laboratory (GFDL). Prior to this, I got my PhD from the University of California, Los Angeles (UCLA). 
+I am a Postodtoral Research Associate at Princeton University/NOAA Geophysical Fluid Dynamics Laboratory (GFDL). Prior to this, I got my Ph.D. in Atmospheric and Oceanic Sciences from the University of California, Los Angeles (UCLA). 
 
 I am broadly interested in atmospheric circulation dynamics, with research experiences covering sudden stratospheric warming (SSW), atmospheric blocking, surface air temperature variability, etc. These pursuits share a common theme: how do atmospheric dynamics contribute to weather and climate extremes? My current focus is on the role of the stratosphere in surface cold extremes.
 
