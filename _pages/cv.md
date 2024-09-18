@@ -19,8 +19,8 @@ Education
 
 Academic employment
 ======
-* Postdoc, Princeton University/NOAA-GFDL, 2024–
-* Summer intern, Lawrence Livermore National Laboratory, 2024
+* Postdoc, AOS/CIMES, Princeton University, 2024–
+* Summer intern, AEED, Lawrence Livermore National Laboratory, 2024
 
 Awards
 ====== 
