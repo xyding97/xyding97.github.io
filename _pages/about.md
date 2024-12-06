@@ -12,7 +12,7 @@ About
 ======
 I am a Postdoctoral Research Associate in AOS/CIMES at Princeton University working with NOAA Geophysical Fluid Dynamics Laboratory (GFDL). Prior to this, I got my Ph.D. in Atmospheric and Oceanic Sciences from the University of California, Los Angeles (UCLA). 
 
-I am broadly interested in atmospheric circulation dynamics, with research experiences covering stratosphere-troposphere coupling, atmospheric blocking, surface air temperature variability, etc. These pursuits share a common theme: how do atmospheric dynamics contribute to weather and climate extremes? My current focus is on the role of the stratosphere in surface cold extremes.
+I am broadly interested in atmospheric circulation dynamics, with research experiences covering stratosphere-troposphere coupling, surface air temperature variability, atmospheric blocking, etc. These pursuits share a common theme: how do atmospheric dynamics contribute to weather and climate extremes? My Ph.D. work centered around the role of extreme stratospheric waves in surface cold extremes. Now I am working on subseasonal predictions using GFDL models.
 
 Publications
 ======
