@@ -24,5 +24,6 @@ Academic employment
 
 Awards
 ====== 
+* Jacob A. Bjerknes Award, Dept. of AOS, UCLA 
 * Dissertation Year Fellowship, UCLA
 * Paul M. Furukawa Memorial Fellowship, Dept. of AOS, UCLA
