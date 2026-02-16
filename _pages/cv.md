@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Full CV](/files/CV.pdf) (Dec. 2025)
+[Full CV](/files/CV.pdf) (Feb. 2026)
 
 Education
 ======
@@ -19,7 +19,8 @@ Education
 
 Academic employment
 ======
-* Postdoc, AOS/CIMES, Princeton University, 2024–
+* Postdoc, AOS, University of California Los Angeles, 2026–
+* Postdoc, AOS/CIMES, Princeton University, 2024–2026
 * Summer intern, AEED, Lawrence Livermore National Laboratory, 2024
 
 Awards
