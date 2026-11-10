@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+{% include base_path %}
+{% assign heading = page.heading | default: page.title %}
+
+<div id="main" role="main">
+  {% include sidebar.html %}
+  <article class="page profile-page" itemscope itemtype="http://schema.org/CreativeWork">
+    <meta itemprop="headline" content="{{ heading | escape }}">
+    {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | escape }}">{% endif %}
+    <div class="page__inner-wrap">
+      <header>
+        <h1 class="page__title" id="{{ heading | slugify }}" itemprop="headline">{{ heading }}</h1>
+      </header>
+      <section class="page__content" itemprop="text">
+        {{ content }}
+      </section>
+    </div>
+  </article>
+</div>
