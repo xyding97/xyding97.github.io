@@ -10,9 +10,9 @@ redirect_from:
 ---
 
 <div class="website-content">
-<h1>About</h1>
+<h1 id="about">About</h1>
 <p class="lead">I am a Postdoctoral Scholar in the Department of Atmospheric and Oceanic Sciences at UCLA. My research focuses on stratosphere–troposphere coupling and its influence on weather extremes and subseasonal-to-seasonal (S2S) predictability. I combine atmospheric dynamics, observations, climate-model experiments, and AI-based atmospheric models to investigate the physical processes connecting large-scale circulation to regional weather and climate.</p>
-<div class="section-rule"></div><h2>Selected Publications</h2>
+<div class="section-rule"></div><h2 id="selected-publications">Selected Publications</h2>
 <div class="pub-mini"><strong>Stratospheric wave predictability enhances surface forecasts over North America</strong><p class="pub-meta">Science Advances · 2026 · <a href="https://doi.org/10.1126/sciadv.aee4171" target="_blank" rel="noopener">Paper</a></p>
 </div><div class="pub-mini"><strong>Demystifying the drivers of the spring warming asymmetry between Eurasia and North America</strong><p class="pub-meta">Science Advances · 2025 · <a href="https://doi.org/10.1126/sciadv.adu2364" target="_blank" rel="noopener">Paper</a></p>
 </div><div class="pub-mini"><strong>Extreme stratospheric wave activity as harbingers of cold events over North America</strong><p class="pub-meta">Communications Earth &amp; Environment · 2023 · <a href="https://doi.org/10.1038/s43247-023-00845-y" target="_blank" rel="noopener">Paper</a></p>
