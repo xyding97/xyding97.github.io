@@ -12,12 +12,23 @@ redirect_from:
 ---
 
 <div class="website-content">
-<div class="cv-download"><strong>Full CV · October 2026</strong><p><a class="button-link" href="{{ site.baseurl }}/files/CV.pdf" download>Download CV (PDF)</a></p>
-</div>
+<p><a href="{{ site.baseurl }}/files/CV.pdf">Full CV</a> (updated October 2026)</p>
 <h2 id="education">Education</h2>
-<table class="fact-table"><tr><th>2024</th><td>Ph.D. in Atmospheric and Oceanic Sciences, UCLA</td></tr><tr><th>2021</th><td>M.S. in Atmospheric and Oceanic Sciences, UCLA</td></tr><tr><th>2019</th><td>B.S. in Atmospheric Sciences, Lanzhou University</td></tr></table>
+<ul>
+  <li>Ph.D. in Atmospheric and Oceanic Sciences, UCLA, 2024</li>
+  <li>M.S. in Atmospheric and Oceanic Sciences, UCLA, 2021</li>
+  <li>B.S. in Atmospheric Sciences, Lanzhou University, 2019</li>
+</ul>
 <span id="academic-employment"></span><h2 id="academic-appointments">Academic appointments</h2>
-<table class="fact-table"><tr><th>2026–present</th><td>Postdoctoral Scholar, University of California, Los Angeles</td></tr><tr><th>2024–2026</th><td>Postdoctoral Research Associate, Princeton University and NOAA Geophysical Fluid Dynamics Laboratory</td></tr><tr><th>2024</th><td>Summer Intern, Lawrence Livermore National Laboratory</td></tr></table>
+<ul>
+  <li>Postdoctoral Scholar, University of California, Los Angeles, 2026–present</li>
+  <li>Postdoctoral Research Associate, Princeton University and NOAA Geophysical Fluid Dynamics Laboratory, 2024–2026</li>
+  <li>Summer Intern, Lawrence Livermore National Laboratory, 2024</li>
+</ul>
 <span id="awards"></span><h2 id="selected-honors">Selected honors</h2>
-<table class="fact-table"><tr><th>2025</th><td>Jacob A. Bjerknes Award, UCLA</td></tr><tr><th>2023</th><td>Dissertation Year Fellowship, UCLA</td></tr><tr><th>2022</th><td>Paul M. Furukawa Memorial Fellowship, UCLA</td></tr></table>
+<ul>
+  <li>Jacob A. Bjerknes Award, UCLA, 2025</li>
+  <li>Dissertation Year Fellowship, UCLA, 2023</li>
+  <li>Paul M. Furukawa Memorial Fellowship, UCLA, 2022</li>
+</ul>
 </div>

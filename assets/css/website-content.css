@@ -23,14 +23,6 @@
 .website-content .research-figure .caption { margin: .75em 0 .4em; font-size: .85em; line-height: 1.6; }
 .website-content .source-line { font-size: .8em; }
 .website-content .paper-inline { font-size: .9em; line-height: 1.7; }
-.website-content .cv-download { margin-bottom: 1.5em; }
-.website-content .cv-download p { margin-top: .5em; }
-.website-content .button-link { display: inline-block; padding: .5em .8em; border: 1px solid currentColor; border-radius: 3px; }
-.website-content .fact-table { display: table; width: 100%; table-layout: fixed; }
-.website-content .fact-table th { width: 30%; text-align: left; }
-.website-content .fact-table th,
-.website-content .fact-table td { vertical-align: top; padding: .65em .4em .65em 0; }
 @media (max-width: 600px) {
   .website-content .figure-pair { grid-template-columns: minmax(0, 1fr); }
-  .website-content .fact-table th { width: 33%; }
 }
