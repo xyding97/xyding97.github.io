@@ -16,7 +16,7 @@ redirect_from:
 </div>
 
 <script>
-// The former Research page occupied /publications/; retain its section links.
+/* The former Research page occupied /publications/; retain its section links. */
 (function () {
   var legacyResearch = {
     "#linkage-between-stratospheric-variability-and-north-american-surface-air-temperature": "#stratospheric-dynamics-and-winter-extremes",
