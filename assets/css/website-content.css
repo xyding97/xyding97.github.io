@@ -1,0 +1,36 @@
+/* Content additions for the existing AcademicPages theme. */
+.author__preferred { margin: .65em 0; }
+.website-content { min-width: 0; overflow-wrap: break-word; }
+.website-content .lead { line-height: 1.7; }
+.website-content .section-rule { margin: 2em 0; border-top: 1px solid #f2f3f3; }
+.website-content .pub-mini { margin: 0 0 1em; }
+.website-content .pub-meta,
+.website-content .small-note { font-size: .85em; }
+.website-content .pub-meta { margin: .25em 0 0; }
+.website-content .pub-list { padding-left: 2em; list-style: decimal; }
+.website-content .pub-list > li { padding: 0 0 1em .3em; margin: 0 0 1em; border-bottom: 1px solid #f2f3f3; }
+.website-content .pub-list > li::marker { font-weight: bold; font-variant-numeric: tabular-nums; }
+.website-content .journal { font-style: italic; }
+.website-content .paper-links { display: flex; flex-wrap: wrap; align-items: baseline; gap: 0 .35em; margin-top: .4em; font-size: .85em; }
+.website-content .research-area { margin-bottom: 2em; }
+.website-content .research-area h2 { margin-top: 0; }
+.website-content .research-figure { display: block; margin: 1.25em 0; }
+.website-content .figure-pair { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; align-items: start; }
+.website-content .figure-panel { display: block; min-width: 0; line-height: 0; }
+.website-content .figure-panel picture { display: block; }
+.website-content .figure-panel img { display: block; width: 100%; max-width: 100%; height: auto; background: white; }
+.website-content .figure-panel:focus-visible { outline: 2px solid currentColor; outline-offset: 4px; }
+.website-content .research-figure .caption { margin: .75em 0 .4em; font-size: .85em; line-height: 1.6; }
+.website-content .source-line { font-size: .8em; }
+.website-content .paper-inline { font-size: .9em; line-height: 1.7; }
+.website-content .cv-download { margin-bottom: 1.5em; }
+.website-content .cv-download p { margin-top: .5em; }
+.website-content .button-link { display: inline-block; padding: .5em .8em; border: 1px solid currentColor; border-radius: 3px; }
+.website-content .fact-table { display: table; width: 100%; table-layout: fixed; }
+.website-content .fact-table th { width: 30%; text-align: left; }
+.website-content .fact-table th,
+.website-content .fact-table td { vertical-align: top; padding: .65em .4em .65em 0; }
+@media (max-width: 600px) {
+  .website-content .figure-pair { grid-template-columns: minmax(0, 1fr); }
+  .website-content .fact-table th { width: 33%; }
+}

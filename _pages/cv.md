@@ -3,28 +3,21 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
+excerpt: "Xiuyuan Ding’s curriculum vitae, updated October 2026: education, academic appointments, and honors."
 redirect_from:
   - /resume
+  - /resume/
+  - /resume.html
+  - /cv.html
 ---
 
-{% include base_path %}
-
-[Full CV](/files/CV.pdf) (Feb. 2026)
-
-Education
-======
-* University of California Los Angeles, Ph.D. in Atmospheric and Oceanic Sciences, 2024
-* University of California Los Angeles, M.S. in Atmospheric and Oceanic Sciences, 2021
-* Lanzhou University, B.S. in Atmospheric Sciences, 2019
-
-Academic employment
-======
-* Postdoc, AOS, University of California Los Angeles, 2026–
-* Postdoc, AOS/CIMES, Princeton University, 2024–2026
-* Summer intern, AEED, Lawrence Livermore National Laboratory, 2024
-
-Awards
-====== 
-* Jacob A. Bjerknes Award, Dept. of AOS, UCLA 
-* Dissertation Year Fellowship, UCLA
-* Paul M. Furukawa Memorial Fellowship, Dept. of AOS, UCLA
+<div class="website-content">
+<div class="cv-download"><strong>Full CV · October 2026</strong><p><a class="button-link" href="{{ site.baseurl }}/files/CV.pdf" download>Download CV (PDF)</a></p>
+</div>
+<h2>Education</h2>
+<table class="fact-table"><tr><th>2024</th><td>Ph.D. in Atmospheric and Oceanic Sciences, UCLA</td></tr><tr><th>2021</th><td>M.S. in Atmospheric and Oceanic Sciences, UCLA</td></tr><tr><th>2019</th><td>B.S. in Atmospheric Sciences, Lanzhou University</td></tr></table>
+<h2>Academic appointments</h2>
+<table class="fact-table"><tr><th>2026–present</th><td>Postdoctoral Scholar, University of California, Los Angeles</td></tr><tr><th>2024–2026</th><td>Postdoctoral Research Associate, Princeton University and NOAA Geophysical Fluid Dynamics Laboratory</td></tr><tr><th>2024</th><td>Summer Intern, Lawrence Livermore National Laboratory</td></tr></table>
+<h2>Selected honors</h2>
+<table class="fact-table"><tr><th>2025</th><td>Jacob A. Bjerknes Award, UCLA</td></tr><tr><th>2023</th><td>Dissertation Year Fellowship, UCLA</td></tr><tr><th>2022</th><td>Paul M. Furukawa Memorial Fellowship, UCLA</td></tr></table>
+</div>
