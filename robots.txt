@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xiuyuand.com/sitemap.xml
